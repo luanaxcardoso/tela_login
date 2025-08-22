@@ -5,28 +5,8 @@
 **Instituição:** UNIFEOB  
 
 ## 👩‍💻 Integrantes
-- **Luana Cardoso** — RA: [informar]
-- **Letícia [Sobrenome]** — RA: [informar]
-
-## 📌 Descrição do Projeto
-....
-
----
-
-## ✅ Estrutura do Projeto
-
-## 📱 Projeto Flutter: Tela de Login - Clínica Estética *La Belle*
-
-**Disciplina:** [Nome da disciplina]  
-**Curso:** Análise e Desenvolvimento de Sistemas  
-**Instituição:** UNIFEOB  
-
----
-
-## 👩‍💻 Integrantes
-- **Luana Cardoso** — RA: [informar]
-- **Letícia [Sobrenome]** — RA: [informar]
-
+- **Luana Cardoso** — RA: [******]
+- **Letícia [Sobrenome]** — RA: [******]
 ---
 
 ## 📌 Descrição do Projeto
