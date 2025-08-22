@@ -61,13 +61,13 @@ tela_login/
 - Um dispositivo ou emulador Android
 
 ### Clonar o repositório
-git clone https://github.com/luanaxcardoso/tela_login.git
+- git clone https://github.com/luanaxcardoso/tela_login.git
 
 ### Entrar na pasta do projeto
-cd tela_login
+- cd tela_login
 
 ### Instalar dependências
-flutter pub get
+- flutter pub get
 
 ### Rodar o app
-flutter run
+- flutter run
