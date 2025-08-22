@@ -49,6 +49,7 @@ tela_login/
 ├── .gitignore
 └── README.md
 
+```
 
 ## 🚀 Funcionalidades
 
@@ -59,14 +60,14 @@ tela_login/
 - SDK do Android ou Android Studio configurados
 - Um dispositivo ou emulador Android
 
-# Clonar o repositório
+### Clonar o repositório
 git clone https://github.com/luanaxcardoso/tela_login.git
 
-# Entrar na pasta do projeto
+### Entrar na pasta do projeto
 cd tela_login
 
-# Instalar dependências
+### Instalar dependências
 flutter pub get
 
-# Rodar o app
+### Rodar o app
 flutter run
