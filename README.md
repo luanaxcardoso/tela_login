@@ -15,7 +15,7 @@
 
 ## ✅ Estrutura do Projeto
 
-# 📱 Projeto Flutter: Tela de Login - Clínica Estética *La Belle*
+## 📱 Projeto Flutter: Tela de Login - Clínica Estética *La Belle*
 
 **Disciplina:** [Nome da disciplina]  
 **Curso:** Análise e Desenvolvimento de Sistemas  
@@ -53,9 +53,9 @@ tela_login/
 
 ## 🚀 Funcionalidades
 
-## ▶️ Como rodar o projeto
+## Como rodar o projeto
 
-### 1️⃣ Pré-requisitos
+### Pré-requisitos
 - Instalar o Flutter 
 - SDK do Android ou Android Studio configurados
 - Um dispositivo ou emulador Android
