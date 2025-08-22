@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'home_screen.dart';
+import 'signup_screen.dart';
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({super.key});
@@ -84,6 +85,16 @@ class _LoginScreenState extends State<LoginScreen> {
                   ),
                   child: const Text('Entrar'),
                 ),
+              ),
+              const SizedBox(height: 20),
+              TextButton(
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (context) => const SignUpScreen()),
+                  );
+                },
+                child: const Text('Não tem conta? Cadastre-se'),
               ),
             ],
           ),

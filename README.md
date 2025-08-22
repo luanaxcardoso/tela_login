@@ -1,16 +1,35 @@
-# tela_login
+## 📱 Projeto Flutter: Tela de Login - Clínica Estética *La Belle*
 
-A new Flutter project.
+**Disciplina:** [Nome da disciplina]  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+**Instituição:** UNIFEOB  
 
-## Getting Started
+## 👩‍💻 Integrantes
+- **Luana Cardoso** — RA: [informar]
+- **Letícia [Sobrenome]** — RA: [informar]
 
-This project is a starting point for a Flutter application.
+## 📌 Descrição do Projeto
+....
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ✅ Estrutura do Projeto
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+tela_login/
+│
+├── android/ # Projeto nativo Android 
+├── lib/ # Código principal em Dart
+│ ├── main.dart # Ponto de entrada do app
+│ └── screens/ # Telas da aplicação
+│ ├── login_screen.dart # Tela de Login
+│ ├── signup_screen.dart # Tela de Cadastro
+│ └── home_screen.dart # Tela Home após login
+
+## 🚀 Funcionalidades
+
+## ▶️ Como rodar o projeto
+
+### 1️⃣ Pré-requisitos
+- Instalar o Flutter 
+- SDK do Android ou Android Studio configurados
+- Um dispositivo ou emulador Android
